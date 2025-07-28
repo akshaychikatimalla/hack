@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+openai
+tiktoken
+numpy
+httpx # For asynchronous HTTP requests
+pypdf2 # For parsing PDF files
+python-docx # For parsing DOCX files
